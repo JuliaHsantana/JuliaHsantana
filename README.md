@@ -4,10 +4,16 @@
 <a href="https://github.com/Juhxd">
  <img align="center" height="160em" width="350" src="https://github-readme-stats.vercel.app/api?username=Juhxd&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues&"/>
   <img align="center" height="160em" width=350src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhxd&layout=compact&langs_count=7&theme=midnight-purple"/>
+ ##
+ 
   
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+ <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"">
+ <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"">                                                                                                                                        
+                                                                                                                                         
 <div>
  <div>
   <a href = "mailto:contato.juliahsanta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
