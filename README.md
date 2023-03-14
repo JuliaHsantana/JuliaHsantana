@@ -1,4 +1,4 @@
-### Olá 👋 eu sou a Julia Helena, Desenvolvedora e Estudante de programação!!
+### Olá 👋 eu sou a Julia Helena, Desenvolvedora e Estudante de programação!
 <br>
 <div align="center">
 <a href="https://github.com/Juhxd">
