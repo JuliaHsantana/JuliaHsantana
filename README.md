@@ -1,4 +1,8 @@
+
+
+
 ### Olá 👋 eu sou a Julia Helena, Desenvolvedora e Estudante de programação!
+
 <br>
 <div align="center">
 <a href="https://github.com/Juhxd">
@@ -27,7 +31,10 @@
                                                                                                                                                      <a href="https://www.instagram.com/juh__helena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
  
 </div>
 
