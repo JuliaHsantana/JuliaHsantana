@@ -5,11 +5,11 @@
 
 <br>
 <div align="center">
-<a href="https://github.com/Juhxd">
+<a href="https://github.com/JuliaHsantana">
  
  <div align="center">
-   <img width="45.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Juhxd&show_icons=true&theme=synthwave&PAT_1">
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhxd&hide_progress=true&theme=synthwave&PAT_1">
+   <img width="45.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuliaHsantana&show_icons=true&theme=synthwave&PAT_1">
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaHsantana&hide_progress=true&theme=synthwave&PAT_1">
 </div>
 
  
